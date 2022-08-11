@@ -1,0 +1,32 @@
+
+---Downloaded files---
+The import files for: Home One were successfully downloaded!
+Initial max execution time = 1500
+Files info:
+Site URL = https://beorx.themeori.com
+Data file = /home/themdhzy/beorx.themeori.com/wp-content/themes/beorx//inc/demo-content/content.xml
+Widget file = /home/themdhzy/beorx.themeori.com/wp-content/themes/beorx//inc/demo-content/widget.wie
+Customizer file = /home/themdhzy/beorx.themeori.com/wp-content/themes/beorx//inc/demo-content/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Right Sidebar : 
+
+Block - No Title - Imported
+Beorx Recent Posts -  Recent Post  - Imported
+Block - No Title - Imported
+
+Default Footer : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

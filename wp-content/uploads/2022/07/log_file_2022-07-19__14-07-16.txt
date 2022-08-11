@@ -1,0 +1,40 @@
+
+---Downloaded files---
+The import files for: Home One were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://tembo-digi.test
+Data file = C:\laragon\www\tembo-digi/wp-content/themes/beorx//inc/demo-content/content.xml
+Widget file = C:\laragon\www\tembo-digi/wp-content/themes/beorx//inc/demo-content/widget.wie
+Customizer file = C:\laragon\www\tembo-digi/wp-content/themes/beorx//inc/demo-content/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Bloc - No Title - Imported
+Beorx Recent Posts -  Recent Post  - Imported
+Bloc - No Title - Imported
+
+Default Footer : 
+
+Bloc - No Title - Imported
+Bloc - No Title - Imported
+Bloc - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

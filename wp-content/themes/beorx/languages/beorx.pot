@@ -1,0 +1,509 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-03-02 20:53+0600\n"
+"PO-Revision-Date: 2022-03-02 20:53+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;esc_html;esc_html__;esc_attr;esc_attr__;esc_attr_e;"
+"esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/comment-form.php:11
+msgid "Your Name*"
+msgstr ""
+
+#: inc/comment-form.php:20
+msgid "Your Email*"
+msgstr ""
+
+#: inc/comment-form.php:43
+msgid "Your Comment*"
+msgstr ""
+
+#: inc/comment-form.php:53
+msgid "Post Comment"
+msgstr ""
+
+#: inc/comment-form.php:59
+msgid "Fields (*) Mark are Required"
+msgstr ""
+
+#: inc/comment-form.php:60
+msgid "Leave A Comment"
+msgstr ""
+
+#: inc/demo-content/demo-import.php:25
+msgid "Home One"
+msgstr ""
+
+#: inc/demo-content/demo-import.php:40
+msgid ""
+"Please click on the Import button only once and wait, it can take a couple "
+"of minutes."
+msgstr ""
+
+#: inc/demo-content/demo-import.php:87
+msgid "Main Menu"
+msgstr ""
+
+#: inc/demo-content/demo-import.php:94
+#: template-parts/page-setting/breadcrumb.php:26
+#: template-parts/page-setting/breadcrumb.php:40
+#: template-parts/page-setting/breadcrumb.php:69
+msgid "Home"
+msgstr ""
+
+#: inc/demo-content/demo-import.php:103 inc/options-default.php:32
+msgid "Blog"
+msgstr ""
+
+#: inc/metabox.php:13
+msgid "Settings"
+msgstr ""
+
+#: inc/metabox.php:20
+msgid "Banner Setting"
+msgstr ""
+
+#: inc/metabox.php:26
+msgid "Show Banner Header"
+msgstr ""
+
+#: inc/metabox.php:28 inc/theme-options.php:48 inc/theme-options.php:133
+#: inc/theme-options.php:260 inc/theme-options.php:290
+#: inc/theme-options.php:301 inc/theme-options.php:312
+#: inc/theme-options.php:347 inc/theme-options.php:358
+#: inc/theme-options.php:369 inc/theme-options.php:415
+#: inc/theme-options.php:498 inc/theme-options.php:520
+msgid "Yes"
+msgstr ""
+
+#: inc/metabox.php:29 inc/theme-options.php:49 inc/theme-options.php:134
+#: inc/theme-options.php:261 inc/theme-options.php:291
+#: inc/theme-options.php:302 inc/theme-options.php:313
+#: inc/theme-options.php:348 inc/theme-options.php:359
+#: inc/theme-options.php:370 inc/theme-options.php:416
+#: inc/theme-options.php:499 inc/theme-options.php:521
+msgid "No"
+msgstr ""
+
+#: inc/metabox.php:37 inc/theme-options.php:210 inc/theme-options.php:451
+msgid "Background"
+msgstr ""
+
+#: inc/metabox.php:53
+msgid "Content Padding"
+msgstr ""
+
+#: inc/metabox.php:61
+msgid "Padding"
+msgstr ""
+
+#: inc/options-default.php:29
+msgid "404"
+msgstr ""
+
+#: inc/options-default.php:30
+msgid "Sorry we Cant find that page!"
+msgstr ""
+
+#: inc/options-default.php:31
+msgid "Back to Home"
+msgstr ""
+
+#: inc/options-default.php:33
+msgid "Blog Details"
+msgstr ""
+
+#: inc/options-default.php:34
+msgid "More Details"
+msgstr ""
+
+#: inc/options-default.php:67
+msgid "Custom Icon"
+msgstr ""
+
+#: inc/template-tags.php:68
+msgid "1"
+msgstr ""
+
+#: inc/template-tags.php:68
+msgid "Comment"
+msgstr ""
+
+#: inc/template-tags.php:68
+msgid "Comments"
+msgstr ""
+
+#: inc/template-tags.php:88
+msgid "Related Tags:"
+msgstr ""
+
+#: inc/template-tags.php:88
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: inc/theme-install.php:52
+msgid "Primary"
+msgstr ""
+
+#: inc/theme-install.php:53
+msgid "Footer"
+msgstr ""
+
+#: inc/theme-options.php:13
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme-options.php:38
+msgid "Global Settings"
+msgstr ""
+
+#: inc/theme-options.php:46
+msgid "Preloader"
+msgstr ""
+
+#: inc/theme-options.php:52 inc/theme-options.php:137 inc/theme-options.php:419
+#: inc/theme-options.php:502 inc/theme-options.php:524
+msgid "Enable or Disable"
+msgstr ""
+
+#: inc/theme-options.php:58
+msgid "Preloader Background"
+msgstr ""
+
+#: inc/theme-options.php:59 inc/theme-options.php:490
+msgid "Select a Background"
+msgstr ""
+
+#: inc/theme-options.php:67
+msgid "Body Typography"
+msgstr ""
+
+#: inc/theme-options.php:84
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/theme-options.php:105
+msgid "Header Options"
+msgstr ""
+
+#: inc/theme-options.php:111
+msgid "Header Style"
+msgstr ""
+
+#: inc/theme-options.php:119
+msgid "Layout"
+msgstr ""
+
+#: inc/theme-options.php:121
+msgid "Default Header"
+msgstr ""
+
+#: inc/theme-options.php:122
+msgid "Header Style One"
+msgstr ""
+
+#: inc/theme-options.php:125
+msgid "Select Header Style"
+msgstr ""
+
+#: inc/theme-options.php:131
+msgid "Enable Search"
+msgstr ""
+
+#: inc/theme-options.php:145
+msgid "Menu Call Button"
+msgstr ""
+
+#: inc/theme-options.php:152
+msgid "Title"
+msgstr ""
+
+#: inc/theme-options.php:153
+msgid "Call Now"
+msgstr ""
+
+#: inc/theme-options.php:159
+msgid "Number"
+msgstr ""
+
+#: inc/theme-options.php:160
+msgid "0122324324"
+msgstr ""
+
+#: inc/theme-options.php:166 inc/theme-options.php:189
+msgid "Link"
+msgstr ""
+
+#: inc/theme-options.php:167 inc/theme-options.php:190
+msgid "tel:01234567890"
+msgstr ""
+
+#: inc/theme-options.php:174
+msgid "Menu CTA Button"
+msgstr ""
+
+#: inc/theme-options.php:182
+msgid "Text"
+msgstr ""
+
+#: inc/theme-options.php:183
+msgid "Quote Now"
+msgstr ""
+
+#: inc/theme-options.php:202
+msgid "Header Banner"
+msgstr ""
+
+#: inc/theme-options.php:222
+msgid "Opacity"
+msgstr ""
+
+#: inc/theme-options.php:235
+msgid "Opacity Color"
+msgstr ""
+
+#: inc/theme-options.php:250 inc/theme-options.php:465
+msgid "Spacing"
+msgstr ""
+
+#: inc/theme-options.php:258
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: inc/theme-options.php:274
+msgid "Blog Page"
+msgstr ""
+
+#: inc/theme-options.php:282
+msgid "Blog Title"
+msgstr ""
+
+#: inc/theme-options.php:288 inc/theme-options.php:345
+msgid "Show Date"
+msgstr ""
+
+#: inc/theme-options.php:299 inc/theme-options.php:356
+msgid "Show Author"
+msgstr ""
+
+#: inc/theme-options.php:310 inc/theme-options.php:367
+msgid "Show Comment"
+msgstr ""
+
+#: inc/theme-options.php:321 inc/theme-options.php:425
+msgid "Button Text"
+msgstr ""
+
+#: inc/theme-options.php:331
+msgid "Single Blog"
+msgstr ""
+
+#: inc/theme-options.php:339
+msgid "Single Blog Title"
+msgstr ""
+
+#: inc/theme-options.php:382
+msgid "404 Error"
+msgstr ""
+
+#: inc/theme-options.php:391
+msgid "Not Found Title"
+msgstr ""
+
+#: inc/theme-options.php:397
+msgid "Not Found Sub Title"
+msgstr ""
+
+#: inc/theme-options.php:403
+msgid "Not Found Content"
+msgstr ""
+
+#: inc/theme-options.php:413
+msgid "Home Button"
+msgstr ""
+
+#: inc/theme-options.php:433
+msgid "Footer Options"
+msgstr ""
+
+#: inc/theme-options.php:441
+msgid "General Options"
+msgstr ""
+
+#: inc/theme-options.php:473
+msgid "Footer Column"
+msgstr ""
+
+#: inc/theme-options.php:474
+msgid "Select Column"
+msgstr ""
+
+#: inc/theme-options.php:476
+msgid "Column 1"
+msgstr ""
+
+#: inc/theme-options.php:477
+msgid "Column 2"
+msgstr ""
+
+#: inc/theme-options.php:478
+msgid "Column 3"
+msgstr ""
+
+#: inc/theme-options.php:479
+msgid "Column 4"
+msgstr ""
+
+#: inc/theme-options.php:487
+msgid "Bottom Background"
+msgstr ""
+
+#: inc/theme-options.php:496
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/theme-options.php:508
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/theme-options.php:518
+msgid "Scroll Up"
+msgstr ""
+
+#: inc/theme-options.php:530
+msgid "Arrow Icon"
+msgstr ""
+
+#: inc/theme-options.php:546
+msgid "Backup"
+msgstr ""
+
+#: inc/widget.php:12
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/widget.php:14 inc/widget.php:27
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widget.php:25
+msgid "Default Footer"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:912
+#: lib/class-tgm-plugin-activation.php:2618
+#: lib/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1019
+#: lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3594
+#: lib/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3594
+#: lib/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:47
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/header/header-style-one.php:36
+msgid "Search Here....."
+msgstr ""
+
+#: template-parts/page-setting/breadcrumb.php:53
+msgid "Page Not Found"
+msgstr ""
+
+#: template-parts/page-setting/breadcrumb.php:59
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""

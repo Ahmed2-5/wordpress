@@ -1,0 +1,32 @@
+
+---Downloaded files---
+The import files for: Home One were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://esprit-famille.test
+Data file = C:\laragon\www\esprit-famille/wp-content/themes/beorx//inc/demo-content/content.xml
+Widget file = C:\laragon\www\esprit-famille/wp-content/themes/beorx//inc/demo-content/widget.wie
+Customizer file = C:\laragon\www\esprit-famille/wp-content/themes/beorx//inc/demo-content/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Right Sidebar : 
+
+Bloc - No Title - Widget already exists
+Beorx Recent Posts -  Recent Post  - Imported
+Bloc - No Title - Imported
+
+Default Footer : 
+
+Bloc - No Title - Imported
+Bloc - No Title - Imported
+Bloc - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
